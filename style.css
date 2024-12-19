@@ -1,0 +1,10 @@
+body{
+    margin-top: 5rem;
+    font-family: Roboto;
+}
+i:hover{
+    color: blue;
+    cursor: pointer;
+    transform: translatey(-1rem);
+    transition: 1s;
+}
